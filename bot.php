@@ -1,7 +1,7 @@
 <?php
 /*EXAMPLE*/
 
-$siteurl = "https://digitask.ru/";
+$siteurl = "https://example.com/";
 $sitekey = "6LcFFTUdAAAAAEymFZkvdT8drUyluozILp45BeWk";
 $apikey = "YOUR_API_KEY";
 
